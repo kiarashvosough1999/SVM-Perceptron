@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10_or_Higher-yellow?style=flat-square)](https://img.shields.io/badge/Swift-5.1_5.2_5.3_5.4-Orange?style=flat-square)
 [![SciKit-Learn](https://img.shields.io/badge/SciKit_Learn-1.1.1_or_Higher-orange?style=flat-square)](https://img.shields.io/badge/Swift-5.1_5.2_5.3_5.4-Orange?style=flat-square)
 [![Twitter](https://img.shields.io/badge/twitter-@Vosough_k-magenta.svg?style=flat-square)](https://twitter.com/AlamofireSF)
-[![Linkedin](https://img.shields.io/badge/twitter-@Vosough_k-blue.svg?style=flat-square)](https://www.linkedin.com/in/kiarashvosough/)
+[![Linkedin](https://img.shields.io/badge/linkedin-@KiarashVosough-blue.svg?style=flat-square)](https://www.linkedin.com/in/kiarashvosough/)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 This is one of the project assigned to me by Computation Intelegence course.
