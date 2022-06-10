@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-@KiarashVosough-blue.svg?style=flat-square)](https://www.linkedin.com/in/kiarashvosough/)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This is one of the project assigned to me by Computation Intelegence course.
+This is one of the project assigned to me by Computation Intelligence course.
 
 I was asked to use Perceptron, SVM and new Perceptron (uses kernel) models with specific Flight dataset.
 I used sklearn models for this purpose and analized the result in detail with visual charts and diagram.
